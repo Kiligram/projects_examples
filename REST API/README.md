@@ -1,5 +1,3 @@
-# zadanie-po16-kunstar-Kiligram
-
 # Andrii Rybak
 
 # zad 5 SQL query
