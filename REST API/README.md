@@ -1,6 +1,8 @@
 # Andrii Rybak
 
-# zad 5 SQL query
+This is a REST API app, that returns data in json format according to the link that was used. There were used such technologies as SQLAlchemy (ORM for PostgreSQL), flask (to make the API).
+
+# PostgreSQL queries used in the app. All these queries are also represent in the app as ORM.
 
 ## 1.
 
