@@ -2,7 +2,7 @@
 
 This is a REST API app, that returns data in json format according to the link that was used. There were used such technologies as SQLAlchemy (ORM for PostgreSQL), flask (to make the API).
 
-# PostgreSQL queries used in the app. All these queries are also represented in the app as ORM.
+# The following PostgreSQL queries are used in the app and were written from scratch. All these queries are also represented in the app as ORM.
 
 ## 1.
 
